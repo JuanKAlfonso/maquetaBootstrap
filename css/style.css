@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.caja1{
+    border-style: solid;
+    border-color:rgb(11, 23, 128);
+    height: 200px;
+    background-color: #3eee12;
+}
+.caja2 {
+    border-style: solid;
+    border-color:rgb(11, 23, 128);
+    height: 300px;
+    background-color:#16dfb3;
+}
+.caja3 {
+    border-style: solid;
+    border-color:rgb(11, 23, 128);
+    height: 300px;
+    background-color: #f5c33b;
+}
+.caja4 {
+    border-style: solid;
+    border-color: rgb(11, 23, 128);
+    height: 300px;
+    background-color: #590202;
+}
